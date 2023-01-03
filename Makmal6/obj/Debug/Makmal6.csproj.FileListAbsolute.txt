@@ -1,0 +1,10 @@
+C:\Users\syahm\source\repos\Makmal6\bin\Debug\Makmal6.exe.config
+C:\Users\syahm\source\repos\Makmal6\bin\Debug\Makmal6.exe
+C:\Users\syahm\source\repos\Makmal6\bin\Debug\Makmal6.pdb
+C:\Users\syahm\source\repos\Makmal6\obj\Debug\Makmal6.csprojAssemblyReference.cache
+C:\Users\syahm\source\repos\Makmal6\obj\Debug\Makmal6.Form1.resources
+C:\Users\syahm\source\repos\Makmal6\obj\Debug\Makmal6.Properties.Resources.resources
+C:\Users\syahm\source\repos\Makmal6\obj\Debug\Makmal6.csproj.GenerateResource.cache
+C:\Users\syahm\source\repos\Makmal6\obj\Debug\Makmal6.csproj.CoreCompileInputs.cache
+C:\Users\syahm\source\repos\Makmal6\obj\Debug\Makmal6.exe
+C:\Users\syahm\source\repos\Makmal6\obj\Debug\Makmal6.pdb

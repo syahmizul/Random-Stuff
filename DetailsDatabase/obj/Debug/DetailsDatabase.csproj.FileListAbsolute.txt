@@ -1,0 +1,11 @@
+C:\Users\syahm\source\repos\DetailsDatabase\bin\Debug\Cookies.mdf
+C:\Users\syahm\source\repos\DetailsDatabase\bin\Debug\Cookies_log.ldf
+C:\Users\syahm\source\repos\DetailsDatabase\bin\Debug\DetailsDatabase.exe.config
+C:\Users\syahm\source\repos\DetailsDatabase\bin\Debug\DetailsDatabase.exe
+C:\Users\syahm\source\repos\DetailsDatabase\bin\Debug\DetailsDatabase.pdb
+C:\Users\syahm\source\repos\DetailsDatabase\obj\Debug\DetailsDatabase.Form1.resources
+C:\Users\syahm\source\repos\DetailsDatabase\obj\Debug\DetailsDatabase.Properties.Resources.resources
+C:\Users\syahm\source\repos\DetailsDatabase\obj\Debug\DetailsDatabase.csproj.GenerateResource.cache
+C:\Users\syahm\source\repos\DetailsDatabase\obj\Debug\DetailsDatabase.csproj.CoreCompileInputs.cache
+C:\Users\syahm\source\repos\DetailsDatabase\obj\Debug\DetailsDatabase.exe
+C:\Users\syahm\source\repos\DetailsDatabase\obj\Debug\DetailsDatabase.pdb

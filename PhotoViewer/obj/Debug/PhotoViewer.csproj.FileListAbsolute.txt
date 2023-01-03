@@ -1,0 +1,9 @@
+C:\Users\syahm\source\repos\PhotoViewer\bin\Debug\PhotoViewer.exe.config
+C:\Users\syahm\source\repos\PhotoViewer\bin\Debug\PhotoViewer.exe
+C:\Users\syahm\source\repos\PhotoViewer\bin\Debug\PhotoViewer.pdb
+C:\Users\syahm\source\repos\PhotoViewer\obj\Debug\PhotoViewer.Properties.Resources.resources
+C:\Users\syahm\source\repos\PhotoViewer\obj\Debug\PhotoViewer.csproj.GenerateResource.cache
+C:\Users\syahm\source\repos\PhotoViewer\obj\Debug\PhotoViewer.csproj.CoreCompileInputs.cache
+C:\Users\syahm\source\repos\PhotoViewer\obj\Debug\PhotoViewer.exe
+C:\Users\syahm\source\repos\PhotoViewer\obj\Debug\PhotoViewer.pdb
+C:\Users\syahm\source\repos\PhotoViewer\obj\Debug\PhotoViewer.Form1.resources

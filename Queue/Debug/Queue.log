@@ -1,0 +1,3 @@
+﻿  Main.cpp
+C:\Users\syahm\source\repos\Queue\Main.cpp(7,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Queue.vcxproj -> C:\Users\syahm\source\repos\Queue\Debug\Queue.exe

@@ -1,0 +1,15 @@
+C:\Users\syahm\source\repos\Delegates\bin\Debug\Delegates.exe.config
+C:\Users\syahm\source\repos\Delegates\bin\Debug\Delegates.exe
+C:\Users\syahm\source\repos\Delegates\bin\Debug\Delegates.pdb
+C:\Users\syahm\source\repos\Delegates\obj\Debug\Delegates.csprojAssemblyReference.cache
+C:\Users\syahm\source\repos\Delegates\obj\Debug\Delegates.Form1.resources
+C:\Users\syahm\source\repos\Delegates\obj\Debug\Delegates.Form2.resources
+C:\Users\syahm\source\repos\Delegates\obj\Debug\Delegates.Properties.Resources.resources
+C:\Users\syahm\source\repos\Delegates\obj\Debug\Delegates.csproj.GenerateResource.cache
+C:\Users\syahm\source\repos\Delegates\obj\Debug\Delegates.csproj.CoreCompileInputs.cache
+C:\Users\syahm\source\repos\Delegates\obj\Debug\Delegates.exe
+C:\Users\syahm\source\repos\Delegates\obj\Debug\Delegates.pdb
+C:\Users\syahm\source\repos\Delegates\obj\Debug\Delegates.Form3.resources
+C:\Users\syahm\source\repos\Delegates\obj\Debug\Delegates.Form4.resources
+C:\Users\syahm\source\repos\Delegates\obj\Debug\Delegates.Form5.resources
+C:\Users\syahm\source\repos\Delegates\obj\Debug\Delegates.Form6.resources

@@ -1,0 +1,14 @@
+C:\Users\syahm\source\repos\LINQToSQL\bin\Debug\Cookies.mdf
+C:\Users\syahm\source\repos\LINQToSQL\bin\Debug\Cookies_log.ldf
+C:\Users\syahm\source\repos\LINQToSQL\bin\Debug\LINQToSQL.exe.config
+C:\Users\syahm\source\repos\LINQToSQL\bin\Debug\LINQToSQL.exe
+C:\Users\syahm\source\repos\LINQToSQL\bin\Debug\LINQToSQL.pdb
+C:\Users\syahm\source\repos\LINQToSQL\obj\Debug\LINQToSQL.csprojAssemblyReference.cache
+C:\Users\syahm\source\repos\LINQToSQL\obj\Debug\LINQToSQL.Form1.resources
+C:\Users\syahm\source\repos\LINQToSQL\obj\Debug\LINQToSQL.Properties.Resources.resources
+C:\Users\syahm\source\repos\LINQToSQL\obj\Debug\LINQToSQL.csproj.GenerateResource.cache
+C:\Users\syahm\source\repos\LINQToSQL\obj\Debug\LINQToSQL.csproj.CoreCompileInputs.cache
+C:\Users\syahm\source\repos\LINQToSQL\obj\Debug\LINQToSQL.exe
+C:\Users\syahm\source\repos\LINQToSQL\obj\Debug\LINQToSQL.pdb
+C:\Users\syahm\source\repos\LINQToSQL\obj\Debug\LINQToSQL.Form2.resources
+C:\Users\syahm\source\repos\LINQToSQL\obj\Debug\LINQToSQL.FormMenu.resources

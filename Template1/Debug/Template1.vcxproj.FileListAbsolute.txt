@@ -1,0 +1,2 @@
+C:\Users\syahm\source\repos\Template1\Debug\Template1.exe
+C:\Users\syahm\source\repos\Template1\Debug\Template1.pdb

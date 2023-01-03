@@ -1,0 +1,10 @@
+C:\Users\syahm\source\repos\Week5\bin\Debug\Week5.exe.config
+C:\Users\syahm\source\repos\Week5\bin\Debug\Week5.exe
+C:\Users\syahm\source\repos\Week5\bin\Debug\Week5.pdb
+C:\Users\syahm\source\repos\Week5\obj\Debug\Week5.csprojAssemblyReference.cache
+C:\Users\syahm\source\repos\Week5\obj\Debug\Week5.Form1.resources
+C:\Users\syahm\source\repos\Week5\obj\Debug\Week5.Properties.Resources.resources
+C:\Users\syahm\source\repos\Week5\obj\Debug\Week5.csproj.GenerateResource.cache
+C:\Users\syahm\source\repos\Week5\obj\Debug\Week5.csproj.CoreCompileInputs.cache
+C:\Users\syahm\source\repos\Week5\obj\Debug\Week5.exe
+C:\Users\syahm\source\repos\Week5\obj\Debug\Week5.pdb

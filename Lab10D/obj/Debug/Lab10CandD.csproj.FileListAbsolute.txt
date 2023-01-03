@@ -1,0 +1,10 @@
+C:\Users\syahm\source\repos\Lab10CandD\bin\Debug\Lab10CandD.exe.config
+C:\Users\syahm\source\repos\Lab10CandD\bin\Debug\Lab10CandD.exe
+C:\Users\syahm\source\repos\Lab10CandD\bin\Debug\Lab10CandD.pdb
+C:\Users\syahm\source\repos\Lab10CandD\obj\Debug\Lab10CandD.Form1.resources
+C:\Users\syahm\source\repos\Lab10CandD\obj\Debug\Lab10CandD.Properties.Resources.resources
+C:\Users\syahm\source\repos\Lab10CandD\obj\Debug\Lab10CandD.csproj.GenerateResource.cache
+C:\Users\syahm\source\repos\Lab10CandD\obj\Debug\Lab10CandD.csproj.CoreCompileInputs.cache
+C:\Users\syahm\source\repos\Lab10CandD\obj\Debug\Lab10CandD.exe
+C:\Users\syahm\source\repos\Lab10CandD\obj\Debug\Lab10CandD.pdb
+C:\Users\syahm\source\repos\Lab10CandD\obj\Debug\Lab10CandD.csprojAssemblyReference.cache

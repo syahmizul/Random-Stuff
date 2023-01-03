@@ -1,0 +1,2 @@
+C:\Users\syahm\source\repos\LabTest1\Debug\LabTest1.exe
+C:\Users\syahm\source\repos\LabTest1\Debug\LabTest1.pdb

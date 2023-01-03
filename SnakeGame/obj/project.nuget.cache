@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "x0pAzlSoBJWbjCMuaFlu/Hz5/IUQflrqxEaTdM6FW7JymXMoB5usYBHKoq2Y+nY5tY6tzVP4jMS3BGYFFIhaew==",
+  "success": true,
+  "projectFilePath": "D:\\Backup\\source\\repos\\SnakeGame\\SnakeGame.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\syahm\\.nuget\\packages\\csfml\\2.5.0\\csfml.2.5.0.nupkg.sha512",
+    "C:\\Users\\syahm\\.nuget\\packages\\sfml.audio\\2.5.0\\sfml.audio.2.5.0.nupkg.sha512",
+    "C:\\Users\\syahm\\.nuget\\packages\\sfml.graphics\\2.5.0\\sfml.graphics.2.5.0.nupkg.sha512",
+    "C:\\Users\\syahm\\.nuget\\packages\\sfml.net\\2.5.0\\sfml.net.2.5.0.nupkg.sha512",
+    "C:\\Users\\syahm\\.nuget\\packages\\sfml.system\\2.5.0\\sfml.system.2.5.0.nupkg.sha512",
+    "C:\\Users\\syahm\\.nuget\\packages\\sfml.window\\2.5.0\\sfml.window.2.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

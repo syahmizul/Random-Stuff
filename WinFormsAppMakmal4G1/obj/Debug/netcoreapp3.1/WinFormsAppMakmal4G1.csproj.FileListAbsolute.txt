@@ -1,0 +1,14 @@
+C:\Users\syahm\source\repos\WinFormsAppMakmal4G1\bin\Debug\netcoreapp3.1\WinFormsAppMakmal4G1.exe
+C:\Users\syahm\source\repos\WinFormsAppMakmal4G1\bin\Debug\netcoreapp3.1\WinFormsAppMakmal4G1.deps.json
+C:\Users\syahm\source\repos\WinFormsAppMakmal4G1\bin\Debug\netcoreapp3.1\WinFormsAppMakmal4G1.runtimeconfig.json
+C:\Users\syahm\source\repos\WinFormsAppMakmal4G1\bin\Debug\netcoreapp3.1\WinFormsAppMakmal4G1.runtimeconfig.dev.json
+C:\Users\syahm\source\repos\WinFormsAppMakmal4G1\bin\Debug\netcoreapp3.1\WinFormsAppMakmal4G1.dll
+C:\Users\syahm\source\repos\WinFormsAppMakmal4G1\bin\Debug\netcoreapp3.1\WinFormsAppMakmal4G1.pdb
+C:\Users\syahm\source\repos\WinFormsAppMakmal4G1\obj\Debug\netcoreapp3.1\WinFormsAppMakmal4G1.Form1.resources
+C:\Users\syahm\source\repos\WinFormsAppMakmal4G1\obj\Debug\netcoreapp3.1\WinFormsAppMakmal4G1.csproj.GenerateResource.cache
+C:\Users\syahm\source\repos\WinFormsAppMakmal4G1\obj\Debug\netcoreapp3.1\WinFormsAppMakmal4G1.AssemblyInfoInputs.cache
+C:\Users\syahm\source\repos\WinFormsAppMakmal4G1\obj\Debug\netcoreapp3.1\WinFormsAppMakmal4G1.AssemblyInfo.cs
+C:\Users\syahm\source\repos\WinFormsAppMakmal4G1\obj\Debug\netcoreapp3.1\WinFormsAppMakmal4G1.csproj.CoreCompileInputs.cache
+C:\Users\syahm\source\repos\WinFormsAppMakmal4G1\obj\Debug\netcoreapp3.1\WinFormsAppMakmal4G1.dll
+C:\Users\syahm\source\repos\WinFormsAppMakmal4G1\obj\Debug\netcoreapp3.1\WinFormsAppMakmal4G1.pdb
+C:\Users\syahm\source\repos\WinFormsAppMakmal4G1\obj\Debug\netcoreapp3.1\WinFormsAppMakmal4G1.genruntimeconfig.cache

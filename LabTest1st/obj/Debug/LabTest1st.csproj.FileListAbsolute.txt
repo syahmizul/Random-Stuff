@@ -1,0 +1,10 @@
+C:\Users\syahm\source\repos\LabTest1st\bin\Debug\LabTest1st.exe.config
+C:\Users\syahm\source\repos\LabTest1st\bin\Debug\LabTest1st.exe
+C:\Users\syahm\source\repos\LabTest1st\bin\Debug\LabTest1st.pdb
+C:\Users\syahm\source\repos\LabTest1st\obj\Debug\LabTest1st.csprojAssemblyReference.cache
+C:\Users\syahm\source\repos\LabTest1st\obj\Debug\LabTest1st.Form1.resources
+C:\Users\syahm\source\repos\LabTest1st\obj\Debug\LabTest1st.Properties.Resources.resources
+C:\Users\syahm\source\repos\LabTest1st\obj\Debug\LabTest1st.csproj.GenerateResource.cache
+C:\Users\syahm\source\repos\LabTest1st\obj\Debug\LabTest1st.csproj.CoreCompileInputs.cache
+C:\Users\syahm\source\repos\LabTest1st\obj\Debug\LabTest1st.exe
+C:\Users\syahm\source\repos\LabTest1st\obj\Debug\LabTest1st.pdb

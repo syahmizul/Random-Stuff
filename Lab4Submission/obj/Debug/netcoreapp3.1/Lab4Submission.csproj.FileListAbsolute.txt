@@ -1,0 +1,15 @@
+C:\Users\syahm\source\repos\Lab4Submission\bin\Debug\netcoreapp3.1\Lab4Submission.exe
+C:\Users\syahm\source\repos\Lab4Submission\bin\Debug\netcoreapp3.1\Lab4Submission.deps.json
+C:\Users\syahm\source\repos\Lab4Submission\bin\Debug\netcoreapp3.1\Lab4Submission.runtimeconfig.json
+C:\Users\syahm\source\repos\Lab4Submission\bin\Debug\netcoreapp3.1\Lab4Submission.runtimeconfig.dev.json
+C:\Users\syahm\source\repos\Lab4Submission\bin\Debug\netcoreapp3.1\Lab4Submission.dll
+C:\Users\syahm\source\repos\Lab4Submission\bin\Debug\netcoreapp3.1\Lab4Submission.pdb
+C:\Users\syahm\source\repos\Lab4Submission\obj\Debug\netcoreapp3.1\Lab4Submission.csprojAssemblyReference.cache
+C:\Users\syahm\source\repos\Lab4Submission\obj\Debug\netcoreapp3.1\Lab4Submission.Form1.resources
+C:\Users\syahm\source\repos\Lab4Submission\obj\Debug\netcoreapp3.1\Lab4Submission.csproj.GenerateResource.cache
+C:\Users\syahm\source\repos\Lab4Submission\obj\Debug\netcoreapp3.1\Lab4Submission.AssemblyInfoInputs.cache
+C:\Users\syahm\source\repos\Lab4Submission\obj\Debug\netcoreapp3.1\Lab4Submission.AssemblyInfo.cs
+C:\Users\syahm\source\repos\Lab4Submission\obj\Debug\netcoreapp3.1\Lab4Submission.csproj.CoreCompileInputs.cache
+C:\Users\syahm\source\repos\Lab4Submission\obj\Debug\netcoreapp3.1\Lab4Submission.dll
+C:\Users\syahm\source\repos\Lab4Submission\obj\Debug\netcoreapp3.1\Lab4Submission.pdb
+C:\Users\syahm\source\repos\Lab4Submission\obj\Debug\netcoreapp3.1\Lab4Submission.genruntimeconfig.cache
